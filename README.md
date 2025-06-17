@@ -1,4 +1,4 @@
-# AMD5700XT-Ring0-Crash-Fix-Linux
+# AMD RX 5700 XT Ring0 Crash Fix for Linux
 Guide for troubleshooting.
 
 **Things to check first:**
